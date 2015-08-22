@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/ncas-sys/ncas-external-server#readme",
   "dependencies": {
-    "socket.io": "^1.3.6"
+    "express": "^4.13.3",
+    "socket.io": "^1.3.6",
+    "underscore": "^1.8.3"
   }
 }
